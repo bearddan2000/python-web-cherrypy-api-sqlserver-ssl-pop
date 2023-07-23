@@ -1,0 +1,4 @@
+cherrypy
+cp_sqlalchemy
+sqlalchemy
+pymssql
